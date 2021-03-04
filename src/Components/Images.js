@@ -1,4 +1,4 @@
-export default [
+const images_array = [
 	"1.jpg",
 	"10.jpg",
 	"11.jpg",
@@ -89,3 +89,5 @@ export default [
 	"9.jpg",
 	"90.jpg",
 ];
+
+export default images_array;
