@@ -1,0 +1,17 @@
+const button = document.getElementById("button_container");
+const image = document.getElementById("image_shower");
+const heading = document.getElementById("heading");
+
+const getRandomImage = () => {
+	//Get random index
+	randomIndex = Math.floor(Math.random() * image_array.length);
+	// Get random image from index
+	selectedImage = image_array[randomIndex];
+	document.getElementById("image_shower").src = `../images/${selectedImage}`;
+	heading.classList.add("hidden");
+};
+
+button.addEventListener("click", getRandomImage);
+image.addEventListener("click", getRandomImage);
+getRandomImage();
+heading.classList.remove("hidden");
