@@ -73,12 +73,6 @@ img {
 	}
 }
 
-@media screen and (min-width: 1024px) {
-	img {
-		max-height: 100%;
-		width: auto;
-	}
-}
 
 @media screen and (min-width: 1024px) {
 	img {
