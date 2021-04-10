@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EllieCatReact/static/css/main.6c11aa61.chunk.css",
+    "main.js": "/EllieCatReact/static/js/main.6e57c0d3.chunk.js",
+    "main.js.map": "/EllieCatReact/static/js/main.6e57c0d3.chunk.js.map",
+    "runtime-main.js": "/EllieCatReact/static/js/runtime-main.1d7bc6d9.js",
+    "runtime-main.js.map": "/EllieCatReact/static/js/runtime-main.1d7bc6d9.js.map",
+    "static/js/2.9b384600.chunk.js": "/EllieCatReact/static/js/2.9b384600.chunk.js",
+    "static/js/2.9b384600.chunk.js.map": "/EllieCatReact/static/js/2.9b384600.chunk.js.map",
+    "index.html": "/EllieCatReact/index.html",
+    "static/css/main.6c11aa61.chunk.css.map": "/EllieCatReact/static/css/main.6c11aa61.chunk.css.map",
+    "static/js/2.9b384600.chunk.js.LICENSE.txt": "/EllieCatReact/static/js/2.9b384600.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d7bc6d9.js",
+    "static/js/2.9b384600.chunk.js",
+    "static/css/main.6c11aa61.chunk.css",
+    "static/js/main.6e57c0d3.chunk.js"
+  ]
+}
